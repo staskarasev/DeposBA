@@ -18,3 +18,4 @@ Some of the questions I wanted to responde:
 
 <img width="940" alt="Screen Shot 2020-09-09 at 18 12 30" src="https://user-images.githubusercontent.com/26492168/92656702-e3a7e180-f2c9-11ea-9318-fd06597ff27f.png">
 
+<img width="989" alt="Screen Shot 2020-09-09 at 18 27 21" src="https://user-images.githubusercontent.com/26492168/92657117-9ed07a80-f2ca-11ea-809d-4510ce333c37.png">
