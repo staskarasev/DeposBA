@@ -13,3 +13,8 @@ Some of the questions I wanted to responde:
 - Which district has the oldest apartments block?
 
 - Are there any districts in the city with undervalued price?
+
+
+
+<img width="940" alt="Screen Shot 2020-09-09 at 18 12 30" src="https://user-images.githubusercontent.com/26492168/92656702-e3a7e180-f2c9-11ea-9318-fd06597ff27f.png">
+
