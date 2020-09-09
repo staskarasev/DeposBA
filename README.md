@@ -24,9 +24,11 @@ We can compare price distribution between districts.
 ### Geographic Statistics
 #### Average price per meter by district
 <img width="956" alt="Screen Shot 2020-09-09 at 18 32 47" src="https://user-images.githubusercontent.com/26492168/92657350-0e466a00-f2cb-11ea-8556-8b0c8e18ae2b.png">
+It seems that north of the city as much more expensive for acquire an apartments with Puerto Madero is the most expensive district.
 
 #### Average covered square by district
 <img width="957" alt="Screen Shot 2020-09-09 at 18 32 58" src="https://user-images.githubusercontent.com/26492168/92657354-10102d80-f2cb-11ea-9ef7-accfa1cd245b.png">
-
+The most spacious apartments are in Puerto Madero, Belgrano and Recoleta districts.
 #### Average apartments block age by district
 <img width="962" alt="Screen Shot 2020-09-09 at 18 33 11" src="https://user-images.githubusercontent.com/26492168/92657366-13a3b480-f2cb-11ea-911c-915cb6874a42.png">
+The oldest apartments block in the city are close to the port area with Puerto Madero as one of the "youngest" district
