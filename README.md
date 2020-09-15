@@ -1,6 +1,6 @@
 # DeposBA: An explonatery data analysis on the real estate scene in Buenos Aires, Argentina.
 
-
+[watch directly in nbviewer](https://nbviewer.jupyter.org/github/staskarasev/DeposBA/blob/master/DeposBA.ipynb)
 ## Background
 
 I moved to Buenos Aires in 2017 and still I don't know many things about this city. I think analysing the real estate data is a greate way to explore the city.
